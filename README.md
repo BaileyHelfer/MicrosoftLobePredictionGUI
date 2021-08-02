@@ -1,6 +1,6 @@
 # Microsoft Lobe Prediction GUI!
 
-This program is designed to take an Machine Learning Model created from Lobe and use that
+This program is designed to take a Machine Learning Model created from Lobe and use that
 model to make inference on the images selected.
 
 # Installation
