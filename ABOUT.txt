@@ -1,0 +1,20 @@
+#AUTHOR
+    #Bailey Helfer 
+#DECRIPTION
+    #this program is used to get predictions for machine learning models used with Microsofts Lobe
+#REQUIREMENTS
+    #Must have a valid onnx model along with signature file with it in same directory
+    #Images must be in either png or jpg format
+#HOW TO USE
+	#Select the onnx model that you plan to use. It will get the directory its in
+	#Select the image you want to use and if you want folder select image in folder
+	#The class box will fill with the folder name of images assuming thats the class name
+	#Click load images and then you are ready to go through and scan each image or whole folder
+#INFO
+    #libs used in program
+		#os
+		#threading
+		#natsort
+		#getpass
+		#TkWidgets -user class
+		#tkinter 
