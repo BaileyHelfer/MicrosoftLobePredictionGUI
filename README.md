@@ -3,6 +3,9 @@
 This program is designed to take an Machine Learning Model created from Lobe and use that
 model to make inference on the images selected.
 
+# Installation
+Clone the repository and create a virutal environment using the requirements.txt. To install the Lobe library you must install from their github here: https://github.com/lobe/lobe-python
+
 # How to use GUI
 
 Step 1
