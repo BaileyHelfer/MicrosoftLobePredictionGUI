@@ -1,5 +1,5 @@
 # Microsoft Lobe Prediction GUI!
-
+![] (preview.PNG)
 This program is designed to take a Machine Learning Model created from Lobe and use that
 model to make inference on the images selected.
 
